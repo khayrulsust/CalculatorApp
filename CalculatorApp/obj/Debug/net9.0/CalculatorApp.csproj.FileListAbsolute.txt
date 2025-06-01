@@ -1,0 +1,28 @@
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.exe
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.deps.json
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.runtimeconfig.json
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.dll
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.pdb
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfoInputs.cache
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfo.cs
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.csproj.CoreCompileInputs.cache
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.dll
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/refint/CalculatorApp.dll
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.pdb
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.genruntimeconfig.cache
+C:/Users/C&E IT/Desktop/KHC#/CalculatorApp/CalculatorApp/obj/Debug/net9.0/ref/CalculatorApp.dll
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.deps.json
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.runtimeconfig.json
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.dll
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/bin/Debug/net9.0/CalculatorApp.pdb
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfoInputs.cache
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.AssemblyInfo.cs
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.csproj.CoreCompileInputs.cache
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.dll
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/refint/CalculatorApp.dll
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.pdb
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/CalculatorApp.genruntimeconfig.cache
+/Users/mba/Desktop/ASP.NetCore/CalculatorApp/CalculatorApp/obj/Debug/net9.0/ref/CalculatorApp.dll
